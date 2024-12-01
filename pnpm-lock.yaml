@@ -166,7 +166,7 @@ importers:
         version: 10.0.1
       resedit:
         specifier: ^1.7.0
-        version: 1.7.1
+        version: 1.7.2
       semver:
         specifier: ^7.3.8
         version: 7.6.0
@@ -5377,8 +5377,8 @@ packages:
   require-package-name@2.0.1:
     resolution: {integrity: sha512-uuoJ1hU/k6M0779t3VMVIYpb2VMJk05cehCaABFhXaibcbvfgR8wKiozLjVFSzJPmQMRqIcO0HMyTFqfV09V6Q==}
 
-  resedit@1.7.1:
-    resolution: {integrity: sha512-/FJ6/gKAXbcHtivannhecWsa43kGVFK3aHHv9Jm3x0eFiM31MoGihkAOWbm3UsvjYLRVw0zTkfARy2dI96JL1Q==}
+  resedit@1.7.2:
+    resolution: {integrity: sha512-vHjcY2MlAITJhC0eRD/Vv8Vlgmu9Sd3LX9zZvtGzU5ZImdTN3+d6e/4mnTyV8vEbyf1sgNIrWxhWlrys52OkEA==}
     engines: {node: '>=12', npm: '>=6'}
 
   resolve-alpn@1.2.1:
@@ -12139,7 +12139,7 @@ snapshots:
 
   require-package-name@2.0.1: {}
 
-  resedit@1.7.1:
+  resedit@1.7.2:
     dependencies:
       pe-library: 0.4.1
 
